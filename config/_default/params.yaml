@@ -1,7 +1,7 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: Dr. Armand Kapaj
+    name: Armand Kapaj
     type: person
     tagline: ""
     description: ""
@@ -14,7 +14,7 @@ hugoblox:
       neutral: ""
   typography:
     font: sans
-    size: md
+    size: sm
   layout:
     radius: md
     spacing: comfortable
